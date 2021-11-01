@@ -1,6 +1,6 @@
 # 👋🏻 Howdy!
 
-I'm Ben, a web developer with a passion for accessibility. I'm currently a frontend software engineer at [USAA](https://usaa.com).
+I'm Ben, a web developer with a passion for accessibility.
 
 * 📝 I make web accessibility approachable on [my blog](https://benmyers.dev).
 * 🎥 I stream about web accessibility and more every week on [Some Antics](https://twitch.tv/SomeAnticsDev) — catch the [backlog](https://someantics.dev/youtube)!
