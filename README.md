@@ -7,4 +7,4 @@ I'm Ben, a web developer with a passion for accessibility.
 * 📑 I'm a software engineer at [Microsoft](https://careers.microsoft.com), building out the [Microsoft Learn](https://learn.microsoft.com/en-us/) platform.
 * 💛 I foster inclusive communities of practice for web developers in the [Lunch Dev](https://discord.gg/lunchdev) and [Frontend Horse](https://frontend.horse/chat) Discord servers.
 
-**[Twitter](https://twitter.com/BenDMyers)** | **[LinkedIn](https://linkedin.com/in/BenDMyers)** | **[Email](mailto:ben@benmyers.dev)**
+**[Twitter](https://twitter.com/BenDMyers)** | **[Mastodon](https://a11y.info/@ben)** | **[LinkedIn](https://linkedin.com/in/BenDMyers)** | **[Email](mailto:ben@benmyers.dev)**
